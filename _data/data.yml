@@ -1,13 +1,13 @@
 --- 
-career-profile: 
-  summary: ""
-  title: "Quem Sou"
+#career-profile: 
+#  summary: ""
+#  title: "Quem Sou"
 education: 
   - degree: "Analise e Desenvolvimento de Sistema"
     details: ~
     time: "2016 - 2018"
     university: "FAMO - Faculdade porto das monções"
-experiencesxx: 
+experiences: 
   - role: Desenvolver FullStack
     time: "2016 - 2019"
     company: "Lirix - Plataformas para negócios digitais."
