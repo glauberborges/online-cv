@@ -1,23 +1,19 @@
 --- 
-#career-profile: 
-#  summary: ""
-#  title: "Quem Sou"
 education: 
-  - degree: "Analise e Desenvolvimento de Sistema"
+  - 
+    degree: "Analise e Desenvolvimento de Sistema"
     details: ~
     time: "2016 - 2018"
     university: "FAMO - Faculdade porto das monções"
 experiences: 
-  - role: Desenvolver FullStack
-    time: "2016 - 2019"
+  - 
     company: "Lirix - Plataformas para negócios digitais."
     details: |
         Atuava com o desenvolvimento de websites e todos os projetos online, criava novas funcionalidades para o CMS interno que usávamos no site.
         Manutenção de loja virtual e sistema personalizado da empresa sistema que usávamos interno.
         Suporte ao cliente via telefone e e-mail (tickets).
-    
-    
-    
+    role: "Desenvolver FullStack"
+    time: "2016 - 2019"
 footer: "Glauber Borges\n"
 projects: 
   assignments: 
