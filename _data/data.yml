@@ -62,20 +62,20 @@ skills:
   title: "Minhas Habilidades"
   toolset: 
     - 
-      level: 98%
+      level: 78%
       name: PHP
     - 
-      level: 78%
+      level: 58%
       name: "Javascript & jQuery"
     - 
-      level: 98%
+      level: 58%
       name: Photoshop
     - 
-      level: 95%
+      level: 79%
       name: "HTML5 & CSS"
     - 
-      level: 85%
+      level: 90%
       name: CSS
     - 
-      level: 60%
+      level: 80%
       name: SASS
